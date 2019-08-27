@@ -23,4 +23,4 @@ export function clone(items) {
     }
 
     return cloned;
-};
+}

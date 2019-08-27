@@ -12,4 +12,4 @@ export function nestedValue(mainObject, key) {
     } catch (err) {
         return null;
     }
-};
+}

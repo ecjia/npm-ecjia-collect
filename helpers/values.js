@@ -19,4 +19,4 @@ export function values(items) {
     }
 
     return valuesArray;
-};
+}
