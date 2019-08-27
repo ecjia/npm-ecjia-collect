@@ -9,4 +9,4 @@ export function nth(n, offset = 0) {
         .filter((item, index) => index % n === 0);
 
     return new this.constructor(collection);
-};
+}

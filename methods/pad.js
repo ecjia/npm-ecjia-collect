@@ -31,4 +31,4 @@ export function pad(size, value) {
     }
 
     return new this.constructor(items);
-};
+}

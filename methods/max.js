@@ -5,4 +5,4 @@ export function max(key) {
     }
 
     return Math.max(...this.items);
-};
+}

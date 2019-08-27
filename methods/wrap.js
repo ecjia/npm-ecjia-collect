@@ -9,4 +9,4 @@ export function wrap(value) {
     }
 
     return new this.constructor([value]);
-};
+}

@@ -36,4 +36,4 @@ export function mergeRecursive(items) {
     }
 
     return new this.constructor(merge(this.items, items));
-};
+}

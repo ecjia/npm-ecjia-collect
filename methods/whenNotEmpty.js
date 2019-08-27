@@ -15,4 +15,4 @@ export function whenNotEmpty(fn, defaultFn) {
     }
 
     return this;
-};
+}

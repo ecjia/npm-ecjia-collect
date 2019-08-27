@@ -11,4 +11,4 @@ export function diff(values) {
     const collection = this.items.filter(item => valuesToDiff.indexOf(item) === -1);
 
     return new this.constructor(collection);
-};
+}

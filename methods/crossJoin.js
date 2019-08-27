@@ -26,4 +26,4 @@ export function crossJoin(...values) {
     }
 
     return new this.constructor(join([], this.constructor, [].concat([this.items], values)));
-};
+}

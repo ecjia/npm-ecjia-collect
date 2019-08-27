@@ -5,4 +5,4 @@ export function implode(key, glue) {
     }
 
     return new this.constructor(this.items).pluck(key).all().join(glue);
-};
+}

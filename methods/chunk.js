@@ -28,4 +28,4 @@ export function chunk(size) {
     }
 
     return new this.constructor(chunks);
-};
+}

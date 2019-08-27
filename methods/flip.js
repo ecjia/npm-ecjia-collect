@@ -13,4 +13,4 @@ export function flip() {
     }
 
     return new this.constructor(collection);
-};
+}

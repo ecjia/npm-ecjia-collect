@@ -20,4 +20,4 @@ export function last(fn, defaultValue) {
     const keys = Object.keys(items);
 
     return items[keys[keys.length - 1]];
-};
+}

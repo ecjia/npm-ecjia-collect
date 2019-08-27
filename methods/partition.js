@@ -27,4 +27,4 @@ export function partition(fn) {
     }
 
     return new this.constructor(arrays);
-};
+}

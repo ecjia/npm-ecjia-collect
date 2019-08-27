@@ -25,4 +25,4 @@ export function combine(array) {
     }
 
     return new this.constructor(collection);
-};
+}

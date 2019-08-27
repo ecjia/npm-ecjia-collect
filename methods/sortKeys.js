@@ -7,4 +7,4 @@ export function sortKeys() {
     });
 
     return new this.constructor(ordered);
-};
+}

@@ -24,4 +24,4 @@ export function concat(collectionOrArrayOrObject) {
     });
 
     return new this.constructor(collection);
-};
+}

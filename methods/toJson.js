@@ -5,4 +5,4 @@ export function toJson() {
     }
 
     return JSON.stringify(this.toArray());
-};
+}

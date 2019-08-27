@@ -5,4 +5,4 @@ export function eachSpread(fn) {
     });
 
     return this;
-};
+}

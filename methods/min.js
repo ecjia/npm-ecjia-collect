@@ -5,4 +5,4 @@ export function min(key) {
     }
 
     return Math.min(...this.items);
-};
+}

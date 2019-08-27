@@ -95,4 +95,4 @@ export function pluck(value, key) {
 
         return null;
     });
-};
+}

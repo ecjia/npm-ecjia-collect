@@ -19,4 +19,4 @@ export function replace(items) {
     const replaced = Object.assign({}, this.items, items);
 
     return new this.constructor(replaced);
-};
+}

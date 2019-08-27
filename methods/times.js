@@ -5,4 +5,4 @@ export function times(n, fn) {
     }
 
     return this;
-};
+}

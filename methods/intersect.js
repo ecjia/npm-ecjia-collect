@@ -10,4 +10,4 @@ export function intersect(values) {
                            .filter(item => intersectValues.indexOf(item) !== -1);
 
     return new this.constructor(collection);
-};
+}

@@ -20,4 +20,4 @@ export function except(...args) {
     });
 
     return new this.constructor(collection);
-};
+}

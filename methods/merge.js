@@ -17,4 +17,4 @@ export function merge(value) {
     });
 
     return new this.constructor(collection);
-};
+}

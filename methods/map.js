@@ -11,4 +11,4 @@ export function map(fn) {
     });
 
     return new this.constructor(collection);
-};
+}

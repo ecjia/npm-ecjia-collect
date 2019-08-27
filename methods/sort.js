@@ -13,4 +13,4 @@ export function sort(fn) {
     }
 
     return new this.constructor(collection);
-};
+}

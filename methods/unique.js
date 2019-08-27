@@ -27,4 +27,4 @@ export function unique(key) {
     }
 
     return new this.constructor(collection);
-};
+}

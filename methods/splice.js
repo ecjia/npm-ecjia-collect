@@ -12,4 +12,4 @@ export function splice(index, limit, replace) {
     }
 
     return slicedCollection;
-};
+}

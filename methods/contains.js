@@ -24,4 +24,4 @@ export function contains(key, value) {
     keysAndValues.push(...Object.keys(this.items));
 
     return keysAndValues.indexOf(key) !== -1;
-};
+}

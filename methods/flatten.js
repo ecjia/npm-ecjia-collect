@@ -47,4 +47,4 @@ export function flatten(depth) {
     }
 
     return new this.constructor(collection);
-};
+}

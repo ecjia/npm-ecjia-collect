@@ -13,4 +13,4 @@ export function transform(fn) {
     }
 
     return this;
-};
+}

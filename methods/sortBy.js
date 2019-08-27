@@ -32,4 +32,4 @@ export function sortBy(valueOrFunction) {
     });
 
     return new this.constructor(collection);
-};
+}

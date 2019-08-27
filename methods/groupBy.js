@@ -23,4 +23,4 @@ export function groupBy(key) {
     });
 
     return new this.constructor(collection);
-};
+}

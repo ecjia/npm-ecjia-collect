@@ -15,4 +15,4 @@ export function mapWithKeys(fn) {
     }
 
     return new this.constructor(collection);
-};
+}

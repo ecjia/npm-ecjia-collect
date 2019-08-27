@@ -7,4 +7,4 @@ export function every(fn) {
     return items
         .map((item, index) => fn(item, index))
         .indexOf(false) === -1;
-};
+}

@@ -17,4 +17,4 @@ export function keyBy(key) {
     }
 
     return new this.constructor(collection);
-};
+}

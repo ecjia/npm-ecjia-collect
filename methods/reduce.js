@@ -17,4 +17,4 @@ export function reduce(fn, carry) {
     }
 
     return reduceCarry;
-};
+}

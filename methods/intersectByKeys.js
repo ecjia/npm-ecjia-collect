@@ -15,4 +15,4 @@ export function intersectByKeys(values) {
     });
 
     return new this.constructor(collection);
-};
+}

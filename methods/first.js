@@ -30,4 +30,4 @@ export function first(fn, defaultValue) {
     }
 
     return defaultValue;
-};
+}

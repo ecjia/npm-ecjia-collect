@@ -5,4 +5,4 @@ export function when(value, fn, defaultFn) {
     } else {
         defaultFn(this);
     }
-};
+}

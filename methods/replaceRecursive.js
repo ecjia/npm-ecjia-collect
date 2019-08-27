@@ -45,4 +45,4 @@ export function replaceRecursive(items) {
     }
 
     return new this.constructor(replace(this.items, items));
-};
+}

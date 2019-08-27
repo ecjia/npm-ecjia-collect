@@ -5,4 +5,4 @@ export function average(key) {
     }
 
     return new this.constructor(this.items).pluck(key).sum() / this.items.length;
-};
+}

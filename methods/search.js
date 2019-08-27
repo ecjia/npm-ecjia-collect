@@ -33,4 +33,4 @@ export function search(valueOrFunction, strict) {
     }
 
     return index;
-};
+}

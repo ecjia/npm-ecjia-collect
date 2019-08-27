@@ -13,4 +13,4 @@ export function mapToGroups(fn) {
     });
 
     return new this.constructor(collection);
-};
+}

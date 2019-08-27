@@ -15,4 +15,4 @@ export function diffAssoc(values) {
     });
 
     return new this.constructor(collection);
-};
+}

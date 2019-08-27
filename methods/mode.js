@@ -35,4 +35,4 @@ export function mode(key) {
     return values
         .filter(value => value.count === highestCount)
         .map(value => value.key);
-};
+}

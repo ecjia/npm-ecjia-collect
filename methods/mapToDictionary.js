@@ -13,4 +13,4 @@ export function mapToDictionary(fn) {
     });
 
     return new this.constructor(collection);
-};
+}

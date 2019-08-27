@@ -9,4 +9,4 @@ export function union(object) {
     });
 
     return new this.constructor(collection);
-};
+}

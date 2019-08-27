@@ -9,4 +9,4 @@ export function when(value, fn, defaultFn) {
     }
 
     return this;
-};
+}

@@ -11,4 +11,4 @@ export function pop() {
     delete this.items[key];
 
     return last;
-};
+}

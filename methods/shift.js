@@ -9,4 +9,4 @@ export function shift() {
     delete this.items[key];
 
     return value;
-};
+}

@@ -16,4 +16,4 @@ export function median(key) {
     }
 
     return this.items[Math.floor(length / 2)][key];
-};
+}

@@ -14,4 +14,4 @@ export function forPage(page, chunk) {
     }
 
     return new this.constructor(collection);
-};
+}

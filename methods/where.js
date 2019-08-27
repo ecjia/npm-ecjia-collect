@@ -54,4 +54,4 @@ export function where(key, operator, value) {
     });
 
     return new this.constructor(collection);
-};
+}

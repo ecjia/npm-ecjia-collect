@@ -13,4 +13,4 @@ export function get(key, defaultValue = null) {
     }
 
     return null;
-};
+}

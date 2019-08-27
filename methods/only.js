@@ -20,4 +20,4 @@ export function only(...args) {
     });
 
     return new this.constructor(collection);
-};
+}

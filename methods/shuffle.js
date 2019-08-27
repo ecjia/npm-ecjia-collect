@@ -18,4 +18,4 @@ export function shuffle() {
     this.items = items;
 
     return this;
-};
+}

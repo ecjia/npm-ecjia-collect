@@ -16,4 +16,4 @@ export function diffKeys(object) {
     return new this.constructor(this.items).only(
         remainingKeys,
     );
-};
+}

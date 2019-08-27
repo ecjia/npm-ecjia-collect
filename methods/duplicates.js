@@ -34,4 +34,4 @@ export function duplicates() {
     }
 
     return new this.constructor(duplicateValues);
-};
+}

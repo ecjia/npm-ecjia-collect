@@ -1,5 +1,5 @@
 
-import {values} from "../helpers/values";
+import {values as extractValues} from "../helpers/values";
 import {nestedValue} from "../helpers/nestedValue";
 
 export function whereNotIn(key, values) {
@@ -9,4 +9,4 @@ export function whereNotIn(key, values) {
                            .filter(item => items.indexOf(nestedValue(item, key)) === -1);
 
     return new this.constructor(collection);
-};
+}

@@ -56,4 +56,4 @@ export function filter(fn) {
     }
 
     return new this.constructor(filteredItems);
-};
+}

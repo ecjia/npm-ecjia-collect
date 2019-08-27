@@ -27,4 +27,4 @@ export function toArray() {
     }
 
     return this.values().all();
-};
+}

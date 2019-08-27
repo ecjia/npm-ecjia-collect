@@ -10,4 +10,4 @@ export function split(numberOfGroups) {
     }
 
     return new this.constructor(collection);
-};
+}

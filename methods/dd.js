@@ -5,4 +5,4 @@ export function dd() {
     if (typeof process !== 'undefined') {
         process.exit(1);
     }
-};
+}

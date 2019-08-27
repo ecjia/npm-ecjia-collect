@@ -7,4 +7,4 @@ export function slice(remove, limit) {
     }
 
     return new this.constructor(collection);
-};
+}

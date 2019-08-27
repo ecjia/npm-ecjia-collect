@@ -12,4 +12,4 @@ export function random(length = null) {
     }
 
     return collection.take(length);
-};
+}

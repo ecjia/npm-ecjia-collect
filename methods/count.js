@@ -7,4 +7,4 @@ export function count() {
     }
 
     return Math.max(Object.keys(this.items).length, arrayLength);
-};
+}

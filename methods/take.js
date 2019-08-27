@@ -26,4 +26,4 @@ export function take(length) {
     }
 
     return new this.constructor(this.items.slice(0, length));
-};
+}
